@@ -141,7 +141,7 @@ img.learnmore{
 }
 div.choice{
     height: 15px;
-    width: 20px;
+    width: 20%;
     position: relative;
     margin-left: 600px;
 }
@@ -153,7 +153,7 @@ img.storey{
     left: 250px;
 }
 .last{
-    padding-top: 180px;
+    padding-top: 300px;
     text-align: center;
 }
 #cent{
@@ -179,11 +179,11 @@ img.storey{
 }
 
 img.palace{
-    float: right; 
+    float: left; 
     border-radius: 0px 80px;
     position: absolute;
-    top: 1300px;
-    right: 1040px;
+    top: 1402px;
+    right: 940px;
     height: 125px;
     background-color: white;
 }
@@ -191,8 +191,8 @@ img.ivy{
     float: right; 
     border-radius: 0px 80px;
     position: absolute;
-    top: 1300px;
-    right: 600px;
+    top: 1402px;
+    right: 500px;
     height: 125px;
     background-color: white;
 }
@@ -200,8 +200,8 @@ img.rexona{
     float: right; 
     border-radius: 0px 80px;
     position: absolute;
-    top: 1300px;
-    right: 180px;
+    top: 1402px;
+    right: 80px;
     height: 125px;
     background-color: white;
 }
@@ -224,5 +224,24 @@ ul.bl #u{
     right: 170px;
     margin-top: -30px;
 }
+section{ 
+    display: inline-block;
+    margin: 60px;
+    width: 50px%;
+    background-color: white;
+    /*margin-right: 50px;
+    padding: 10px;
+    padding-top: 5%;
+    text-align: center;
+}
 
 
+/*#pics article{ 
+    align-items: center;
+    margin: 60px;
+    width: 100%;
+    background-color: white;
+    margin-right: 50px;
+    padding: 10px;
+    padding-top: 5%;
+    text-align: center;
