@@ -244,12 +244,19 @@ ul.bl #u{
     padding-top: 5%;
     text-align: center;
 }
-section{ 
+.flex-container{ 
     display: flex; 
-    margin: 60px;
-    width: 50px%;
-    background-color: #2549D3;;
-    align-content: center;
-    color: #FAFAFA;
+    flex-direction: row;
+    color: white;
+    
+    
+   
+}
+.flex-container> section{
+    background-color: #2549D3;
+    padding: 10;
+    width: 100%;
+    color: white;
+    
 }
     
