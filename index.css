@@ -79,18 +79,9 @@ div{
 h3{
     padding-left: 15%;
 }
-/*h3.last{
-    margin-top: -px;
-}*/
-
-#pose{
-    padding-left: 50%;
-}
-/*#pics{
-    display: flexbox;
-    background-color: white;
-    text-align: center;
-}*/
+    #pose{
+text-align: center;
+    }
 #pics{
     display: flex;
     justify-content: center;
@@ -114,7 +105,7 @@ img.home{
     position: absolute;
     top: 680px;
     right: 1050px;
-    height: 30px;
+    height: 40px;
     background-color: white;
 }
 img.payment{
@@ -123,7 +114,7 @@ img.payment{
     position: absolute;
     top: 680px;
     right: 600px;
-    height: 30px;
+    height: 40px;
     background-color: white;
 }
 img.official{
@@ -132,14 +123,14 @@ img.official{
     position: absolute;
     top: 680px;
     right: 180px;
-    height: 30px;
+    height: 40px;
     background-color: white;
 }
 img.learnmore{
     float: right; 
     border-radius: 0px 0px;
     position: absolute;
-    top: 490px;
+    top: 310px;
     right: 900px;
     height: 30px;
 }
