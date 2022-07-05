@@ -79,6 +79,10 @@ div{
 h3{
     padding-left: 15%;
 }
+/*h3.last{
+    margin-top: -px;
+}*/
+
 #pose{
     padding-left: 50%;
 }
@@ -224,19 +228,13 @@ ul.bl #u{
     right: 170px;
     margin-top: -30px;
 }
-section{ 
-    display: inline-block;
-    margin: 60px;
-    width: 50px%;
-    background-color: white;
-    /*margin-right: 50px;
-    padding: 10px;
-    padding-top: 5%;
-    text-align: center;
+#feed{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #f2f3f8;
 }
-
-
-/*#pics article{ 
+#feed mark{ 
     align-items: center;
     margin: 60px;
     width: 100%;
@@ -245,3 +243,13 @@ section{
     padding: 10px;
     padding-top: 5%;
     text-align: center;
+}
+section{ 
+    display: flex; 
+    margin: 60px;
+    width: 50px%;
+    background-color: #2549D3;;
+    align-content: center;
+    color: #FAFAFA;
+}
+    
