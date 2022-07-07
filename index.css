@@ -63,8 +63,12 @@ img{
     border-radius: 0px 130px;
     position: absolute;
     top: 120px;
-    right: 170px;
+    right: 170px;   
 }
+img.front{
+    box-shadow: 6px 6px;
+}
+
 div{
     border: 1px;
     width: 30%;
@@ -112,6 +116,7 @@ img.home{
     right: 1050px;
     height: 40px;
     background-color: white;
+    
 }
 img.payment{
     float: right; 
@@ -121,6 +126,7 @@ img.payment{
     right: 600px;
     height: 40px;
     background-color: white;
+    
 }
 img.official{
     float: right; 
@@ -151,6 +157,8 @@ img.storey{
     position: absolute;
     top: 920px;
     left: 250px;
+    box-shadow: 6px 6px;
+    
 }
 .last{
     padding-top: 300px;
@@ -184,6 +192,7 @@ img.palace{
     right: 940px;
     height: 125px;
     background-color: white;
+    box-shadow: 4px 4px;
 }
 img.ivy{
     float: right; 
@@ -193,6 +202,7 @@ img.ivy{
     right: 500px;
     height: 125px;
     background-color: white;
+    box-shadow: 4px 4px;
 }
 img.rexona{
     float: right; 
@@ -202,6 +212,7 @@ img.rexona{
     right: 80px;
     height: 125px;
     background-color: white;
+    box-shadow: 4px 4px;
 }
 #dollar{
     color: #2549D3;
