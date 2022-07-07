@@ -16,12 +16,14 @@ nav{
 }
 label.logo{
     color: black;
-    font-size: 28px;
+    font-size: 32px;
     line-height: 95px;
     padding: 13px;
     font-weight: bold;
     font-style: Space Grotesk;
     margin-left: 180px;
+    font-display: brush script;
+    
 }
 nav ul{
     float: right;

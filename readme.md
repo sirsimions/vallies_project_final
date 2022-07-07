@@ -1,6 +1,8 @@
-# Vallie's Property Website
+# Vallie's Estate Website
 #### The current application (web) enables potential buyers and tenants to view Vallie's apartments and property remotely. 
 #### By **Simion Okola**
+## Live Link
+https://sirsimions.github.io/vallies_project_final/
 ## Description
 This web app gives prospective properties and apartments buyers (at Vallie's Estate) the opporyunity to view available units, their locations, and prices before commitment. Embedded images of property for sale and rent in addition to their locations and prices allow potentia customers to make evidence based decision on purchasing or renting apartments. The web app facilitates easy navigation from one property to another with crucial information including price, property type, and location.
 ## Setup/Installation Requirements
