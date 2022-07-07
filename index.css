@@ -43,6 +43,15 @@ a#style{
 a:hover#style{
     color: #2549D3;
     background-color: aqua;
+    
+}
+a:hover#blu{
+    color: #2549D3;
+    background-color: aqua;
+}
+a:hover#u{
+    color: #2549D3;
+    background-color: aqua;
 }
 #blu{
     border: 1px solid;
@@ -54,6 +63,9 @@ a:hover#style{
     border-radius: 8px;
     list-style: none;
     text-decoration: none;
+}
+#blu{
+    box-shadow: 0 4px 4px;
 }
 h2#col{
     color: #2549D3;
