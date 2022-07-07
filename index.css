@@ -65,6 +65,7 @@ img{
     top: 120px;
     right: 170px;   
 }
+
 img.front:hover{
     box-shadow: 6px 6px;
 }
@@ -137,6 +138,9 @@ img.official{
     height: 40px;
     background-color: white;
 }
+#hov:hover{
+        box-shadow: 6px 6px;
+}
 img.learnmore{
     float: right; 
     border-radius: 0px 0px;
@@ -159,7 +163,7 @@ img.storey{
     left: 250px;
 }
 img.storey:hover{
-    box-shadow: 0 6px 6px; 
+    box-shadow: 6px 6px;
 }
 .last{
     padding-top: 300px;
