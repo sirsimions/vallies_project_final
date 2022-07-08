@@ -16,12 +16,14 @@ nav{
 }
 label.logo{
     color: black;
-    font-size: 28px;
+    font-size: 32px;
     line-height: 95px;
     padding: 13px;
     font-weight: bold;
     font-style: Space Grotesk;
     margin-left: 180px;
+    font-display: brush script;
+    
 }
 nav ul{
     float: right;
@@ -41,6 +43,15 @@ a#style{
 a:hover#style{
     color: #2549D3;
     background-color: aqua;
+    
+}
+a:hover#blu{
+    color: #2549D3;
+    background-color: aqua;
+}
+a:hover#u{
+    color: #2549D3;
+    background-color: aqua;
 }
 #blu{
     border: 1px solid;
@@ -53,6 +64,9 @@ a:hover#style{
     list-style: none;
     text-decoration: none;
 }
+#blu{
+    box-shadow: 0 4px 4px;
+}
 h2#col{
     color: #2549D3;
 }
@@ -61,8 +75,13 @@ img{
     border-radius: 0px 130px;
     position: absolute;
     top: 120px;
-    right: 170px;
+    right: 170px;   
 }
+
+img.front:hover{
+    box-shadow: 6px 6px;
+}
+
 div{
     border: 1px;
     width: 30%;
@@ -110,6 +129,7 @@ img.home{
     right: 1050px;
     height: 40px;
     background-color: white;
+    
 }
 img.payment{
     float: right; 
@@ -119,6 +139,7 @@ img.payment{
     right: 600px;
     height: 40px;
     background-color: white;
+    
 }
 img.official{
     float: right; 
@@ -128,6 +149,9 @@ img.official{
     right: 180px;
     height: 40px;
     background-color: white;
+}
+#hov:hover{
+        box-shadow: 6px 6px;
 }
 img.learnmore{
     float: right; 
@@ -149,6 +173,9 @@ img.storey{
     position: absolute;
     top: 920px;
     left: 250px;
+}
+img.storey:hover{
+    box-shadow: 6px 6px;
 }
 .last{
     padding-top: 300px;
@@ -183,6 +210,9 @@ img.palace{
     height: 125px;
     background-color: white;
 }
+img.palace:hover{
+    box-shadow: 0 6px 6px; 
+}
 img.ivy{
     float: right; 
     border-radius: 0px 80px;
@@ -192,6 +222,9 @@ img.ivy{
     height: 125px;
     background-color: white;
 }
+img.ivy:hover{
+    box-shadow: 0 6px 6px; 
+}
 img.rexona{
     float: right; 
     border-radius: 0px 80px;
@@ -200,6 +233,9 @@ img.rexona{
     right: 80px;
     height: 125px;
     background-color: white;
+}
+img.rexona:hover{
+    box-shadow: 0 6px 6px; 
 }
 #dollar{
     color: #2549D3;
